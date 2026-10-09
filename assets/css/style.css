@@ -637,7 +637,7 @@ p{
   transition:border-color .3s,box-shadow .3s;
   overflow:hidden;
   color:var(--text);
-  transform: scale(0.95);
+  transform: scale(0.90);
   transform-origin: center;
 }
 
